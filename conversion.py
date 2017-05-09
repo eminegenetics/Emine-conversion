@@ -1,3 +1,5 @@
+
 # My Conversion Tools  
-def dollars2cents(dollars):
-    print("Hello!", dollars)
+def dollars_to_cents(dollars):
+    cents = dollars * 100
+    return cents
